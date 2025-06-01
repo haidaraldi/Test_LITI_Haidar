@@ -2,6 +2,11 @@
 
 Project REST API ASP.NET Core menggunakan pendekatan Code-First.
 
+##Internal Testing
+  ```
+https://jam.dev/c/67aa044c-a280-425f-835c-ed9e83af90c8
+```
+
 ## Fitur
 - Tambah, ubah, hapus, cari data karyawan
 - REST API dengan endpoint standar
