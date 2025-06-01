@@ -1,0 +1,6 @@
+@Test_LITI_Haidar_HostAddress = http://localhost:5072
+
+GET {{Test_LITI_Haidar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
